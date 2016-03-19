@@ -1,0 +1,49 @@
+#subject_list{
+	
+	float: left;
+}
+
+#subject_list li a{
+	font-size: 18px;
+	color: black;
+	width: 30%;
+	display: inline;
+}
+
+/*#subject_list li{
+	display: inline;
+}*/
+
+/*#subject_list li a:hover{
+	cursor: pointer;
+	color: darkmagenta;
+	font-family: cursive;
+}*/
+#wrapper{
+
+	width: 30%;
+	
+}
+
+#blank{
+	height: 500px;
+}
+
+#each_item{
+
+	background-color: aquamarine;
+	width: 350px;
+	height: 60px;
+	padding: 5px;
+	margin-left: 5px;
+	text-align: center;
+	line-height: 60px;
+	border: 5px solid white;
+	border-radius: 50px;
+}
+
+#each_item:hover{
+	background-color: lightcyan;
+	border-bottom-style: ridge;
+	cursor: pointer;
+}

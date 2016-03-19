@@ -1,0 +1,59 @@
+#top-bar-out {
+	display:block;
+	position:relative;
+	width:100%;
+	padding-left: 4px;
+	height:40px;
+	text-align: center;
+	line-height: 40px;
+	background: -moz-linear-gradient(center top, #333333, #111111);
+	background: -webkit-gradient(linear, left top, left bottom, from(#333333), to(#111111));
+	background:  -o-linear-gradient(top, #333333, #111111);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#333333', EndColorStr='#111111');
+	box-shadow:0 1px 2px #666666;
+	-webkit-box-shadow: 0 1px 2px #666666;
+}
+
+ul li{
+	display: inline-block;
+	width: 10%;
+	color: white;
+}
+
+ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+ul li a:hover{
+	cursor: pointer;
+	color: aquamarine;
+}
+
+#website_name{
+	padding-left: 10px;
+	background: linear-gradient(to right bottom, aliceblue 30%, whitesmoke 70%);
+}
+
+#title{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 32px;
+	color: midnightblue;
+}
+
+#sub_title{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	color: steelblue;
+
+}
+
+.Right_element{
+	float: right;
+}
+
+.user_name{
+	margin-right: 100px;
+	font-size: 10px;
+	color: whitesmoke;
+}

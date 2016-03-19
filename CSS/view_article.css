@@ -1,0 +1,40 @@
+.container{
+
+	margin: 10px;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.title{
+	font-size: 20px;
+	color: darkblue;
+	padding-right: 30px;
+
+}
+
+.each_link{
+
+	background-color: whitesmoke;
+	padding: 20px;
+}
+
+
+.style_button{
+
+	float: right;
+	background-color: forestgreen;
+	color: white;
+	padding: 2px;
+	border-radius: 5px;
+	font-size: 15px;
+	margin-right: 5px;
+}
+
+.style_cancel_button{
+	float: right;
+	color: white;
+	background-color: firebrick; 
+	font-size: 15px;
+	margin-right: 5px;
+	padding: 2px;
+}

@@ -1,0 +1,86 @@
+.form_container{
+
+	width: 60%;
+	margin: 0 auto;
+	background: linear-gradient(to bottom right, white 40%, azure 60%);
+	padding: 20px;
+	text-align: justify;
+	margin-top: 50px;
+	border-radius: 20px;
+	border: 1px dotted forestgreen;
+}
+
+.create_form{
+
+	color: midnightblue;
+	font-size: 18px;
+	padding: 50px;
+
+
+}
+
+.style_select{
+	height: 24px;
+	width: 400px;
+	color: forestgreen;
+	float: right;
+	border-radius: 5px;
+	border: 1px dotted forestgreen;
+}
+
+.form_title{
+	height: 35px;
+	line-height: 35px;
+	background-color: darkblue;
+	color: white;
+	border-bottom-style: ridge;
+	width: 63%;
+	border: 1px solid darkblue;
+	margin-top: 40px;
+	text-align: center;
+	font-size: 15px;
+	font-family: cursive;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+.style_button{
+
+	float: right;
+	background-color: forestgreen;
+	color: white;
+	padding: 2px;
+	border-radius: 5px;
+	font-size: 15px;
+}
+
+.style_cancel_button{
+	float: right;
+	color: white;
+	background-color: firebrick; 
+	font-size: 15px;
+	margin-right: 5px;
+	padding: 1px;
+}
+
+.submit_button_styling{
+
+	
+}
+
+.style_submit_button{
+
+	padding: 7px;
+	color: white;
+	width: 30%;
+	margin-left: 230px;
+	font-size: 18px;
+	border-radius: 10px;
+	background: linear-gradient(to bottom, green 10%, limegreen 90%);
+}
+
+.style_submit_button:hover{
+
+	background: linear-gradient(to bottom, green 10%, lime 90%);
+	cursor: pointer;
+}

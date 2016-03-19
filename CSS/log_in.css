@@ -1,0 +1,65 @@
+#content_box{
+	
+	width: 95%;
+	margin: 0 auto;
+}
+
+#login_form{
+   margin: 0 auto;
+   width: 60%;
+   text-align: justify;
+   border: 1px dotted forestgreen;
+   border-radius: 10px;
+   padding-left: 90px;
+   padding-right: 70px;
+   background: linear-gradient(to right bottom, white 30%, whitesmoke 70%);
+   box-shadow: 5px 5px 2px lightgray;
+   
+}
+
+#form_title{
+    background: linear-gradient(to bottom, green 10%, lime 90%);
+    color: white;
+    height: 40px;
+    border: green 1px solid;
+    border-radius: 10px;
+    font-size: x-large;
+    padding: 2px;
+    width: 71.5%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 40px;
+}
+
+
+#text_boxes{
+    height: 25px;
+    border-bottom: ridge;
+    border:  1pt darkgray solid;
+    border-radius: 5px;
+}
+
+b#text_title{
+    text-align: center;
+    margin: 0 auto;
+}
+
+#submit_button{
+    background: linear-gradient(to bottom, green 20%, limegreen 80%);
+    color: white;
+    
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;
+    height: 30px;
+    font-size: large;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1pt green solid;
+    border-radius: 10px;
+}
+
+#submit_button:hover{
+    color: yellow;
+    cursor: pointer;
+}

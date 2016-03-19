@@ -1,0 +1,50 @@
+.form_container{
+
+	width: 50%;
+	margin: 0 auto;
+	background: linear-gradient(to bottom right, palegreen 10%, white 90%);
+	padding: 20px;
+	text-align: center;
+	margin-top: 100px;
+	border-radius: 20px;
+	border: 1px dotted forestgreen;
+}
+
+.book_form{
+
+	color: midnightblue;
+	font-size: 18px;
+
+
+}
+
+.style_select{
+	height: 30px;
+	color: forestgreen;
+	border-radius: 10px;
+	border: 1px dotted forestgreen;
+}
+
+.book_name{
+	height: 30px;
+	border-radius: 10px;
+	border: 1px dotted forestgreen;
+	width: 250px;
+}
+
+.submit_button{
+
+	background: linear-gradient(to botttom, green 10%, limegreen 90%);
+	font-size: 15px;
+	background-color: forestgreen;
+	width: 70px;
+	height: 30px;
+	color: white;
+	border-radius: 10px;
+}
+
+.submit_button:hover{
+
+	color: yellow;
+	cursor: pointer;
+}

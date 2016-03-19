@@ -1,0 +1,69 @@
+.form_body{
+	background: linear-gradient(to right bottom, white 30%, lightcyan 70%);
+	padding: 100px 100px 100px 100px;
+	margin: 20px 20px 20px 20px;
+	border-radius: 20px;
+	height: 600px;
+	overflow: hidden;
+}
+
+#login_form_container{
+	
+	margin: 50px 50px 50px 50px;
+	padding: 5px 5px 5px 5px;
+	background-color: aquamarine;
+	height: 850px;
+	
+}
+
+#left_box{
+	width: 45%;
+	float: left;
+	background: inherit;
+	color: seagreen;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+#right_box{
+	width: 45%;
+	background: inherit;
+	float: right;
+	color: seagreen;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
+.textbox{
+	width: 90%;
+	height: 25px;
+    border-bottom: ridge;
+    border:  1pt darkgray solid;
+    border-radius: 5px;
+}
+
+#submit_button{
+    background: linear-gradient(to bottom, green 20%, limegreen 80%);
+    color: white;   
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;
+    height: 30px;
+    font-size: large;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1pt green solid;
+    border-radius: 10px;
+}
+
+#submit_button:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+
